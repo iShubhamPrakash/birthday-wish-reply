@@ -4,10 +4,15 @@ body {
     padding: 0;
     color: white;
     background-color: black;
+    text-align: center;
 }
 
 .slide {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
+}
+
+header {
+    padding: 15px;
 }
