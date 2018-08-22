@@ -1,6 +1,11 @@
 html,
 body {
     margin: 0;
-    padding: 0;
-    background-color: black;
+    padding: 0; //background-color: black;
+}
+
+.slide {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
